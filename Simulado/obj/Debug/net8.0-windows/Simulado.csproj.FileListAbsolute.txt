@@ -1,0 +1,17 @@
+C:\Users\lucas\source\repos\Simulado\Simulado\bin\Debug\net8.0-windows\Simulado.exe
+C:\Users\lucas\source\repos\Simulado\Simulado\bin\Debug\net8.0-windows\Simulado.deps.json
+C:\Users\lucas\source\repos\Simulado\Simulado\bin\Debug\net8.0-windows\Simulado.runtimeconfig.json
+C:\Users\lucas\source\repos\Simulado\Simulado\bin\Debug\net8.0-windows\Simulado.dll
+C:\Users\lucas\source\repos\Simulado\Simulado\bin\Debug\net8.0-windows\Simulado.pdb
+C:\Users\lucas\source\repos\Simulado\Simulado\obj\Debug\net8.0-windows\Simulado.Form1.resources
+C:\Users\lucas\source\repos\Simulado\Simulado\obj\Debug\net8.0-windows\Simulado.Form2.resources
+C:\Users\lucas\source\repos\Simulado\Simulado\obj\Debug\net8.0-windows\Simulado.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\Simulado\Simulado\obj\Debug\net8.0-windows\Simulado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\Simulado\Simulado\obj\Debug\net8.0-windows\Simulado.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\Simulado\Simulado\obj\Debug\net8.0-windows\Simulado.AssemblyInfo.cs
+C:\Users\lucas\source\repos\Simulado\Simulado\obj\Debug\net8.0-windows\Simulado.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Simulado\Simulado\obj\Debug\net8.0-windows\Simulado.dll
+C:\Users\lucas\source\repos\Simulado\Simulado\obj\Debug\net8.0-windows\refint\Simulado.dll
+C:\Users\lucas\source\repos\Simulado\Simulado\obj\Debug\net8.0-windows\Simulado.pdb
+C:\Users\lucas\source\repos\Simulado\Simulado\obj\Debug\net8.0-windows\Simulado.genruntimeconfig.cache
+C:\Users\lucas\source\repos\Simulado\Simulado\obj\Debug\net8.0-windows\ref\Simulado.dll
